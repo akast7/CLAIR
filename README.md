@@ -15,7 +15,7 @@ Sudden cardiac arrest (SCA) affects over 600,000 individuals annually in the Uni
 
 **CLAIR** addresses this by jointly reasoning over head CT imaging and structured clinical data to predict neurological outcomes **within 24 hours** of cardiac arrest. It integrates:
 
-- A **VideoMAE** vision encoder for 3D spatiotemporal CT feature extraction (axial, coronal, sagittal views)
+- A **3D MAE** based vision encoder for 3D spatiotemporal CT feature extraction (axial, coronal, sagittal views)
 - A **BioClinicalBERT** text encoder for structured clinical variable encoding
 - A **cross-attention decoder** that fuses imaging and clinical features bidirectionally
 - An **adaptive hybrid loss** combining image-text contrastive learning and binary cross-entropy
