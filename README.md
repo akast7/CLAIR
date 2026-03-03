@@ -6,6 +6,10 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![NIH Funded](https://img.shields.io/badge/NIH-R01NS131967-green.svg)](https://www.nih.gov/)
+[![Under Review](https://img.shields.io/badge/Under%20Review-Scientific%20Reports-red.svg)](https://www.nature.com/srep/)
+
+> [!NOTE]
+> This paper is currently **under review at Scientific Reports**. The training and testing scripts will be made public upon paper acceptance. For more information or collaboration inquiries, please contact the corresponding author: 📧 akasturi@ur.rochester.edu
 
 ---
 
@@ -191,6 +195,15 @@ Akhil Kasturi<sup>1,\*</sup>, Ashley R. Proctor<sup>2</sup>, Ali Vosoughi<sup>1<
 
 <sup>\*</sup> Corresponding author
 📧 akasturi@ur.rochester.edu 
+
+---
+
+## Contact
+
+For questions, collaborations, or access to training and evaluation scripts, please reach out to the corresponding author:
+
+**Akhil Kasturi** — PhD Candidate, University of Rochester
+📧 [akasturi@ur.rochester.edu](mailto:akasturi@ur.rochester.edu)
 
 ---
 
