@@ -203,17 +203,17 @@ Supported by the National Institutes of Health under Award Number **R01NS131967*
 ## Citation
 
 ```bibtex
-@article{kasturi2025clair,
-  title   = {Multimodal Contrastive Prognostication Framework for Early
-             Neurological Outcome Prediction in Post-Cardiac Arrest Patients},
-  author  = {Kasturi, Akhil and Proctor, Ashley R. and Vosoughi, Ali and
-             Zhang, Chloe T. and Hadjiyski, Nathan and Palka, Sydney V. and
-             Davis, Jenna Gonillo and Cardamone, Lisa M. and Helmy, Samantha and
-             Cardona, Jeronimo and Johnson, Thomas W. and Gu, Yang and
-             Marinescu, Mark A. and Selioutski, Olga and Choe, Regine and
-             Khan, Imad R. and Wismuller, Axel},
-  journal = {arXiv preprint},
-  year    = {2025},
-  url     = {https://github.com/akast7/CLAIR}
+@misc{kasturi2025clair,
+  title        = {CLAIR: Multimodal Contrastive Prognostication Framework for Early
+                  Neurological Outcome Prediction in Post-Cardiac Arrest Patients},
+  author       = {Kasturi, Akhil and Proctor, Ashley R. and Vosoughi, Ali and
+                  Zhang, Chloe T. and Hadjiyski, Nathan and Palka, Sydney V. and
+                  Davis, Jenna Gonillo and Cardamone, Lisa M. and Helmy, Samantha and
+                  Cardona, Jeronimo and Johnson, Thomas W. and Gu, Yang and
+                  Marinescu, Mark A. and Selioutski, Olga and Choe, Regine and
+                  Khan, Imad R. and Wismuller, Axel},
+  year         = {2025},
+  howpublished = {\url{https://github.com/akast7/CLAIR}},
+  note         = {GitHub repository}
 }
 ```
