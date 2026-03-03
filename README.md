@@ -189,8 +189,8 @@ Akhil Kasturi<sup>1,\*</sup>, Ashley R. Proctor<sup>2</sup>, Ali Vosoughi<sup>1<
 
 <sup>1</sup> ECE, University of Rochester · <sup>2</sup> Neurology, URMC · <sup>3</sup> BME, University of Rochester · <sup>4</sup> CS, University of Rochester · <sup>5</sup> Pulmonary Critical Care, URMC · <sup>6</sup> School of Medicine & Dentistry, URMC · <sup>7</sup> Anesthesiology, URMC · <sup>8</sup> Medicine, URMC · <sup>9</sup> Neurology, Stony Brook University · <sup>10</sup> Neurology, UC Irvine · <sup>11</sup> Imaging Sciences, University of Rochester · <sup>12</sup> Faculty of Medicine & Clinical Radiology, LMU Munich
 
-<sup>\*</sup> Corresponding authors · <sup>‡</sup> Equal senior authorship
-📧 akasturi@ur.rochester.edu · imadk@hs.uci.edu
+<sup>\*</sup> Corresponding author
+📧 akasturi@ur.rochester.edu 
 
 ---
 
