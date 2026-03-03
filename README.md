@@ -103,12 +103,12 @@ CLAIR/
 
 ### `clip3.py` — Model
 Defines the `CLIP_MAE` class: VideoMAE vision encoder, BioClinicalBERT text encoder with LoRA fine-tuning, three stacked cross-attention layers, temporal pooling, MLP classifier, and the adaptive hybrid loss (ITC + BCE with learnable α).
-
+<!-- 
 ### `train4.py` — Training
 `CPCDataset` loads `.mp4` CT video files paired with `.txt` clinical prompts. Training uses AdamW with OneCycleLR scheduling, mixed-precision (AMP), gradient accumulation, and saves best checkpoint by validation AUC. Per-epoch metrics logged to CSV.
 
 ### `testing_clip.py` — Evaluation
-Loads a trained checkpoint and runs inference on the test set. Computes AUC, accuracy, F1, sensitivity, and specificity. Optimizes the classification threshold via Youden's index and saves the ROC curve figure.
+Loads a trained checkpoint and runs inference on the test set. Computes AUC, accuracy, F1, sensitivity, and specificity. Optimizes the classification threshold via Youden's index and saves the ROC curve figure. -->
 
 ---
 
