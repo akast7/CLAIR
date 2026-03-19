@@ -224,7 +224,5 @@ Supported by the National Institutes of Health under Award Number **R01NS131967*
                   Khan, Imad R. and Wismuller, Axel},
   journal      = {Scientific Reports},
   year         = {2025},
-  publisher    = {Nature Portfolio},
-  note         = {Accepted}
-}
+  publisher    = {Nature Portfolio}}
 ```
