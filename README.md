@@ -8,8 +8,8 @@
 [![NIH Funded](https://img.shields.io/badge/NIH-R01NS131967-green.svg)](https://www.nih.gov/)
 [![Accepted](https://img.shields.io/badge/Accepted-Scientific%20Reports-brightgreen.svg)](https://www.nature.com/srep/)
 
-> [!NOTE]
-> This paper has been **accepted at Scientific Reports** (Nature Portfolio). The training and testing scripts will be made public shortly. For more information or collaboration inquiries, please contact the corresponding author: 📧 akasturi@ur.rochester.edu
+> [NOTE]
+> This paper has been **accepted at Scientific Reports** (Nature Portfolio). For more information or collaboration inquiries, please contact the corresponding author: 📧 akasturi@ur.rochester.edu
 
 ---
 
